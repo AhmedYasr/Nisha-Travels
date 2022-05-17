@@ -49,5 +49,11 @@
  .person{
     padding-right: 0;
 }
+main img{
+ width: 100vw;
+ height: 100vw;
+ object-fit: contain;
+ margin-bottom: 60px;
+}
 
 }
