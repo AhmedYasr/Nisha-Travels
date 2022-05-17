@@ -125,7 +125,7 @@ main img{
 }
 footer{
     width: 100vw;
-    height: 40vh;
+    height: 60vh;
     background-color: var(--main);
     display: flex;
     flex-direction: column;
@@ -134,6 +134,7 @@ footer{
     padding: 1rem;
     color: white;
     text-align: center;
+    justify-content: center;
 }
 footer i {
     font-size: 100px;
