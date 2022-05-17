@@ -133,7 +133,7 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 30px;
     padding: 50px;
     color: white;
     text-align: center;
@@ -141,6 +141,12 @@ footer{
 }
 footer i {
     font-size: 100px;
+}
+footer hr{
+    
+    border-left: none;
+    border-right: none;
+    border-top: none;
 }
 
 

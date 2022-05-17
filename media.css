@@ -40,6 +40,11 @@
      flex-direction: column;
  }
 
- 
+ footer i{
+     font-size: 50px;
+ }
+ footer{
+     font-size: 16px;
+ }
 
 }
