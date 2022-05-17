@@ -52,10 +52,13 @@ main img{
     width: 300px;
     height: 300px;
     padding-bottom: 10px;
-    object-fit: cover;
+    object-fit: contain;
 }
 .description {
     color: black;
+}
+.person{
+    padding-right: 80px;
 }
 
 .contact-details{
